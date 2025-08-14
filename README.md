@@ -267,9 +267,6 @@ done
 
 <img src="https://komarev.com/ghpvc/?username=letchupkt&color=red&style=for-the-badge&label=PROFILE+INFILTRATIONS" alt="Profile views" />
 
-**📡 ACTIVE CHANNELS:**  
-`ig:letchupkt` | `linkedin:lakshmikanthank`
-
 </div>
 
 <div align="center">
