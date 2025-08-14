@@ -151,10 +151,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Matrix rain" width="100%"/>
-</div>
-
 ## 📊 **SYSTEM METRICS** | `htop -u letchupkt`
 
 <div align="center">
