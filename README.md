@@ -16,18 +16,6 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-```ascii
- ██▓    ▓█████▄▄▄█████▓ ▄████▄   ██░ ██  █    ██  ██▓███   ██ ▄█▀▄▄▄█████▓
-▓██▒    ▓█   ▀▓  ██▒ ▓▒▒██▀ ▀█  ▓██░ ██▒ ██  ▓██▒▓██░  ██▒ ██▄█▒ ▓  ██▒ ▓▒
-▒██░    ▒███  ▒ ▓██░ ▒░▒▓█    ▄ ▒██▀▀██░▓██  ▒██░▓██░ ██▓▒▓███▄░ ▒ ▓██░ ▒░
-▒██░    ▒▓█  ▄░ ▓██▓ ░ ▒▓▓▄ ▄██▒░▓█ ░██ ▓▓█  ░██░▒██▄█▓▒ ▒▓██ █▄ ░ ▓██▓ ░ 
-░██████▒░▒████▒ ▒██▒ ░ ▒ ▓███▀ ░░▓█▒░██▓▒▒█████▓ ▒██▒ ░  ░▒██▒ █▄  ▒██▒ ░ 
-░ ▒░▓  ░░░ ▒░ ░ ▒ ░░   ░ ░▒ ▒  ░ ▒ ░░▒░▒░▒▓▒ ▒ ▒ ▒▓▒░ ░  ░▒ ▒▒ ▓▒  ▒ ░░   
-░ ░ ▒  ░ ░ ░  ░   ░      ░  ▒    ▒ ░▒░ ░░░▒░ ░ ░ ░▒ ░     ░ ░▒ ▒░    ░    
-  ░ ░      ░    ░      ░         ░  ░░ ░  ░░░ ░ ░ ░░       ░ ░░ ░   ░      
-    ░  ░   ░  ░        ░ ░       ░  ░  ░    ░              ░  ░            
-```
-
 <div align="center">
   
 ### 📡 **SIGNAL DETECTED** | **STATUS: ONLINE** | **CLEARANCE: LEVEL ∞** 📡
@@ -53,29 +41,32 @@
 > **⚡ PHILOSOPHY:** "In code we trust, in security we verify"
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Hacker typing" width="400"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Hacker typing" width="300"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Computer matrix" width="300"/>
 </div>
 
 ---
 
 ## 🎯 **CURRENT OPERATIONS** | `ps aux | grep active_missions`
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30"/> **DEEP DIVE PROTOCOLS:**
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="25"/> **DEEP DIVE PROTOCOLS:**
 - 🔬 **PROJECT GENESIS:** Building next-gen AI tools that don't suck
 - 🛡️ **OPERATION FORTRESS:** Penetration testing & vulnerability assessment  
 - ⚡ **CODE FUSION:** Merging aesthetic perfection with bulletproof functionality
 - 🌐 **NEURAL NETWORKS:** Training models that dream in binary
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> **SEEKING ALLIANCE:**
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"/> **SEEKING ALLIANCE:**
 - 🤝 Open-source cyber warriors & data scientists
 - 🧠 Hardware integration masterminds  
 - 🔥 Full-stack developers who code like poets
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30"/> **KNOWLEDGE ACQUISITION:**
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25"/> **KNOWLEDGE ACQUISITION:**
 - 🎓 Advanced Ethical Hacking Methodologies
 - 🏗️ Backend Infrastructure & System Architecture  
 - 🔧 IoT Security & Hardware Exploitation
 - 🎨 Frontend Engineering & UX Psychology
+</div>
 
 ---
 
