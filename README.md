@@ -40,11 +40,6 @@
 > **🛡️ SPECIALIZATION:** AI/Data Science | Ethical Hacking | Full-Stack Wizardry  
 > **⚡ PHILOSOPHY:** "In code we trust, in security we verify"
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Hacker typing" width="300"/>
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Computer matrix" width="300"/>
-</div>
-
 ---
 
 ## 🎯 **CURRENT OPERATIONS** | `ps aux | grep active_missions`
