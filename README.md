@@ -1,10 +1,7 @@
-<div align="center">
-  <a href="https://github.com/letchupkt">
-    <img src="https://leetcard.vercel.app/letchupkt?theme=dark" alt="Letchu's LeetCode Card" width="600px"/>
-  </a>
-</div>
-
 <h1 align="center">Lakshmikanthan > $ letchupkt</h1>
+<p align="center">
+  <img src="https://i.imgur.com/K07z8vj.gif" alt="Hacker GIF" width="400"/>
+</p>
 
 > A digital artisan and AI/Data Science undergrad, exploring the intersections of code, creativity, and cybersecurity. I specialize in turning late-night experiments into robust, secure, and well-designed digital experiences.
 
@@ -73,9 +70,19 @@
   <a href="https://discord.gg/npuhcMRD">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:lakshmikanthank2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:letchupkt.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/83p1a12.gif" alt="Coding GIF" width="400"/>
+</p>
+
+<p align="center">
+  <i><br>...end of file.</i>
 </p>
 
 ---
@@ -87,9 +94,3 @@
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=letchupkt&icon=2&color=3" alt="Visitor Count" />
-</div>
-
----
