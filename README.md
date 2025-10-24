@@ -5,12 +5,11 @@
 </div>
 
 <div align="center">
-  <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/b01db287-4549-474f-8879-fa9371d70ed1" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Hacking Animation" width="250"/>
-</p>
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/00d5c36f-bd51-46fa-98ec-b32695ee8620" />
+
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -24,9 +23,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="Matrix" width="100%"/>
-</div>
 
 ## 🔥 **[CLASSIFIED]** Digital Ghost Profile
 
