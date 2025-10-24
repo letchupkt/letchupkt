@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/b01db287-4549-474f-8879-fa9371d70ed1" />
 </div>
 
 <p align="center">
