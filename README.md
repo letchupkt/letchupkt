@@ -1,10 +1,6 @@
 # <div align="center">🚨 ACCESSING MAINFRAME 🚨</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FF00&center=true&vCenter=true&width=600&lines=LAKSHMIKANTHAN;%3E%24+letchupkt;DIGITAL+GHOST;CYBER+ARCHITECT;SYSTEM+BREACHER" alt="Typing Animation" />
-</div>
-
-<div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
