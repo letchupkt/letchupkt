@@ -5,18 +5,6 @@
 
 ---
 
-<iframe
-  src="https://github.com/sponsors/letchupkt/card"
-  title="Sponsor letchupkt"
-  height="320"
-  width="400"
-  style="border:0; border-radius: 8px;"
-  scrolling="no"
-  frameborder="0"
-  allowtransparency="true">
-</iframe>
-
-
 <div align="center">
 ### 🚨 ACCESSING MAINFRAME — DIGITAL GHOST PROFILE 🚨
 </div>
