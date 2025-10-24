@@ -3,10 +3,6 @@
   <img src="https://github.com/user-attachments/assets/00d5c36f-bd51-46fa-98ec-b32695ee8620" alt="github-header-banner" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FF00&center=true&vCenter=true&width=700&lines=LAKSHMIKANTHAN;%3E%24+letchupkt;DIGITAL+GHOST;CYBER+ARCHITECT" alt="Typing Animation" />
-</div>
-
 ---
 
 <div align="center">
