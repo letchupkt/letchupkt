@@ -5,11 +5,11 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Hacking Animation" width="500"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Hacking Animation" width="250"/>
 </p>
 
 <div align="center">
