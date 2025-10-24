@@ -1,18 +1,16 @@
-# <div align="center">🚨 ACCESSING MAINFRAME 🚨</div>
-
+<!-- Banner at the top -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FF00&center=true&vCenter=true&width=600&lines=LAKSHMIKANTHAN;%3E%24+letchupkt;DIGITAL+GHOST;CYBER+ARCHITECT;SYSTEM+BREACHER" alt="Typing Animation" />
+  <img src="https://github.com/user-attachments/assets/00d5c36f-bd51-46fa-98ec-b32695ee8620" alt="github-header-banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FF00&center=true&vCenter=true&width=700&lines=LAKSHMIKANTHAN;%3E%24+letchupkt;DIGITAL+GHOST;CYBER+ARCHITECT" alt="Typing Animation" />
 </div>
 
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/00d5c36f-bd51-46fa-98ec-b32695ee8620" />
-
+---
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+### 🚨 ACCESSING MAINFRAME — DIGITAL GHOST PROFILE 🚨
 </div>
 
 <div align="center">
