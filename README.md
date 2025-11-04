@@ -37,12 +37,12 @@ Full-stack engineer with advanced expertise in **offensive security**, **secure 
 ### SECURITY & PENETRATION TESTING
 | Skill | Level | Expertise |
 |---|---|---|
-| **Penetration Testing** | Expert | Full-scope assessments, vulnerability exploitation, post-exploitation |
-| **Vulnerability Assessment** | Expert | OWASP Top 10, CWE/CVSS analysis, risk quantification |
-| **Network Security** | Expert | Network reconnaissance, packet analysis, protocol exploitation |
-| **Web Application Security** | Expert | SQLi, XSS, CSRF, authentication bypass, session hijacking |
-| **Social Engineering** | Advanced | Phishing analysis, social engineering assessments |
-| **Malware Analysis** | Intermediate | Binary analysis, reverse engineering, behavioral analysis |
+| **Penetration Testing** | Intermediate | Full-scope assessments, vulnerability exploitation, post-exploitation |
+| **Vulnerability Assessment** | Intermediate | OWASP Top 10, CWE/CVSS analysis, risk quantification |
+| **Network Security** | Intermediate | Network reconnaissance, packet analysis, protocol exploitation |
+| **Web Application Security** | Intermediate | SQLi, XSS, CSRF, authentication bypass, session hijacking |
+| **Social Engineering** | Beginner | Phishing analysis, social engineering assessments |
+| **Malware Analysis** | Beginner | Binary analysis, reverse engineering, behavioral analysis |
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -74,7 +74,7 @@ Volatility • IDA Pro • Ghidra • x64dbg • Immunity Debugger
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Expertise:**
-- **Python**: Exploit development, automation, security tools, data analysis
+| **Python**: Exploit development, automation, security tools, data analysis
 - **JavaScript/TypeScript**: Secure web applications, real-time systems
 - **C/C++**: Low-level security, reverse engineering, performance optimization
 - **Go**: Microservices, cloud tools, concurrent systems
@@ -83,10 +83,10 @@ Volatility • IDA Pro • Ghidra • x64dbg • Immunity Debugger
 #### Full-Stack Web Development
 | Layer | Technologies | Proficiency |
 |---|---|---|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Vue.js | Expert |
-| **Backend** | Node.js, Django, FastAPI, Express.js, GraphQL | Expert |
-| **Databases** | PostgreSQL, MongoDB, Redis, Firebase, Elasticsearch | Expert |
-| **DevOps** | Docker, Kubernetes, Terraform, CI/CD pipelines | Advanced |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Vue.js | Intermediate |
+| **Backend** | Node.js, Django, FastAPI, Express.js, GraphQL | Intermediate |
+| **Databases** | PostgreSQL, MongoDB, Redis, Firebase, Elasticsearch | Intermediate |
+| **DevOps** | Docker, Kubernetes, Terraform, CI/CD pipelines | Beginner |
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -163,25 +163,32 @@ Incident Response:   YARA • Sigma rules • Splunk • ELK Stack • Zeek
 
 | Component | Expertise | Focus Area |
 |---|---|---|
-| **Microservices** | Expert | Service mesh, API gateway, distributed tracing |
-| **DevOps** | Expert | Infrastructure as Code, CI/CD, automated security scanning |
-| **Linux/Unix** | Expert | Kernel hardening, SELinux, AppArmor, firewall rules |
-| **Networking** | Expert | VPCs, subnetting, DDoS mitigation, WAF configuration |
-| **IoT/Embedded** | Advanced | Secure firmware, embedded security, hardware hacking |
+| **Microservices** | Intermediate | Service mesh, API gateway, distributed tracing |
+| **DevOps** | Beginner | Infrastructure as Code, CI/CD, automated security scanning |
+| **Linux/Unix** | Intermediate | Kernel hardening, SELinux, AppArmor, firewall rules |
+| **Networking** | Intermediate | VPCs, subnetting, DDoS mitigation, WAF configuration |
+| **IoT/Embedded Security** | Intermediate | Secure firmware, embedded security, hardware hacking, IoT penetration testing |
 
 ---
 
 ### 🌐 ADDITIONAL EXPERTISE
 
-#### Hardware & IoT Security
+#### Hardware & IoT Security Pentesting
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
 
-- Embedded systems reverse engineering
-- Firmware security & analysis
-- Hardware exploitation techniques
-- IoT security architecture
+**IoT/Hardware Penetration Testing Capabilities:**
+- Device firmware extraction & analysis
+- Embedded system vulnerability assessment
+- IoT protocol exploitation (BLE, Zigbee, Z-Wave)
+- Hardware reverse engineering & JTAG debugging
+- UART/Serial communication analysis
+- IoT network segmentation testing
+- Smart home security assessments
+- Wireless attack vectors (WiFi 6, mesh networks)
+- Physical security testing & tamper detection
+- Bootloader exploitation & secure boot bypass
 
 #### Development & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
