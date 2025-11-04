@@ -218,13 +218,20 @@ $ cat active_missions.txt
 
 ## 📋 PROFESSIONAL EXPERIENCE HIGHLIGHTS
 
-✅ Led **penetration testing assessments** for Fortune 500 companies
+✅ Led **penetration testing assessments** for Fortune 50+ companies
+
 ✅ Designed **secure-by-default** application architectures
+
 ✅ Developed **custom exploitation tools** for security research
+
 ✅ Implemented **zero-trust security models** across cloud infrastructure
+
 ✅ Mentored security teams on **offensive/defensive techniques**
+
 ✅ Presented security research at **conferences and webinars**
+
 ✅ Published **vulnerability disclosures** and security advisories
+
 ✅ Maintained **99.99% uptime** in production systems with security hardening
 
 ---
