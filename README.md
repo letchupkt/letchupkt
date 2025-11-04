@@ -4,11 +4,12 @@
 
 ---
 
-<div align="left">
+<div align="center">
 
 ### 🔐 CYBERSECURITY ARCHITECT & FULL-STACK ENGINEER
 **Securing Infrastructure. Scaling Systems. Exploiting Vulnerabilities (Ethically)**
-
+</div>
+<div align="left">
 ```
 $ whoami
 Ethical Hacker | Security Researcher | Full-Stack Developer | System Architect
