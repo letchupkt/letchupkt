@@ -267,6 +267,13 @@ If my security research and development tools have been valuable, consider suppo
 <div align="center">
 
 [![PayPal](https://img.shields.io/badge/Support%20on%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/letchupkt)
+[![Sponsor](https://img.shields.io/badge/💝%20Sponsor%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/letchupkt)
+
+**Every contribution helps fund:**
+- 🔬 Advanced security research projects
+- 🛠️ Open-source security tools development
+- 📚 Educational content & tutorials
+- 🚀 Infrastructure for testing & development
 
 </div>
 
@@ -282,9 +289,11 @@ $ git log --oneline --all | head -20
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letchupkt&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/letchupkt)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=letchupkt&theme=radical&hide_border=true)](https://github.com/letchupkt)
+[![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=letchupkt&theme=radical&hide_border=true&stroke=0000FF)](https://github.com/letchupkt)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=letchupkt&layout=compact&theme=radical&hide_border=true)](https://github.com/letchupkt)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=letchupkt&theme=radical&hide_border=true)](https://github.com/letchupkt)
 
 </div>
 
