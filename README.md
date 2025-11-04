@@ -4,7 +4,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### 🔐 CYBERSECURITY ARCHITECT & FULL-STACK ENGINEER
 **Securing Infrastructure. Scaling Systems. Exploiting Vulnerabilities (Ethically)**
